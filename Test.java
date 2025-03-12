@@ -4,7 +4,7 @@ class Test
 		
 		System.out.println("Hello");
 		System.out.println("Funkibon");
-		System.out.println("Push changes to Jenkins");
+		System.out.println("Push changes to Jenkins!");
 	}
 
 
